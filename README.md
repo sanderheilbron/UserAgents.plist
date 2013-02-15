@@ -14,6 +14,10 @@ Additional User Agents for Safari User Agent switcher menu
 * Bingbot/2.0
 * YandexBot/3.0
 
+**Android:**
+* Android 4.0.4, Samsung Galaxy S3
+* Android 2.2, Samsung Galaxy Tab
+
 ## Usage
 Download the file [UserAgents.plist](https://raw.github.com/sanderheilbron/UserAgents.plist/master/UserAgents.plist) to your Desktop.
 Close Safari and launch the Terminal app. Copy the modified file into Safari, enter the following command in the Terminal:

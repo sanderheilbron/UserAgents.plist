@@ -56,6 +56,30 @@
 		<key>user-agent</key>
 		<string>Mozilla/5.0 (iPad; CPU OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3</string>
 	</dict>
+		<dict>
+		<key>separator</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Android</string>
+		<key>version</key>
+		<string>4.0.4</string>
+		<key>platform</key>
+		<string>Samsung Galaxy S3</string>
+		<key>user-agent</key>
+		<string>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Android</string>
+		<key>version</key>
+		<string>2.2</string>
+		<key>platform</key>
+		<string>Samsung Galaxy Tab</string>
+		<key>user-agent</key>
+		<string>Mozilla/5.0 (Linux; U; Android 2.2; en-us; SCH-I800 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</string>
+	</dict>
 	<dict>
 		<key>separator</key>
 		<true/>
