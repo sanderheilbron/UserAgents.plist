@@ -4,7 +4,10 @@ UserAgents.plist
 Additional User Agents for Safari User Agent switcher menu
 
 ## Additional User Agents
+**Browsers:**
 * Internet Explorer 10.0
+
+**Search Engine Bots:**
 * Googlebot/2.1
 * Googlebot-Mobile/2.1 &mdash; Smartphone
 * Googlebot-Mobile/2.1 &mdash; Feature phone
@@ -21,4 +24,4 @@ Relaunch Safari and you’ll see the new User Agents in the User Agent switcher 
 
 ## Requirements
 * Mac: Safari 4 or later
-* To enable user-agent switching, you need first to activate the Developer menu in the ‘Advanced’ tab of Safari’s preferences.
+* To enable User Agent switching, you need first to activate the Developer menu in the ‘Advanced’ tab of Safari’s preferences.
