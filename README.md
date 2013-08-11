@@ -4,9 +4,6 @@ UserAgents.plist
 Additional User Agents for Safari User Agent switcher menu
 
 ## Additional User Agents
-**Browsers:**
-* Internet Explorer 10.0
-
 **Search Engine Bots:**
 * Googlebot/2.1
 * Googlebot-Mobile/2.1 &mdash; Smartphone
