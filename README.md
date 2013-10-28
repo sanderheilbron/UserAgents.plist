@@ -3,6 +3,8 @@ UserAgents.plist
 
 Additional User Agents for Safari User Agent switcher menu
 
+![Alt text](/screenshots/UserAgents.png?raw=true)
+
 ## Additional User Agents
 **Search Engine Bots:**
 * Googlebot/2.1
