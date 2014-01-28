@@ -8,7 +8,7 @@ Additional User Agents for Safari User Agent switcher menu
 ## Additional User Agents
 **Search Engine Bots:**
 * Googlebot/2.1
-* Googlebot-Mobile/2.1 &mdash; Smartphone
+* Googlebot/2.1 &mdash; Smartphone
 * Googlebot-Mobile/2.1 &mdash; Feature phone
 * Bingbot/2.0
 * YandexBot/3.0
