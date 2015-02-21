@@ -5,22 +5,38 @@
 	<dict>
 		<key>name</key>
 		<string>Safari</string>
-		<key>version</key>
-		<string>7.0</string>
 		<key>platform</key>
 		<string>Mac</string>
+		<key>show-platform</key>
+		<false/>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71</string>
+		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18</string>
+		<key>version</key>
+		<string>8.0.3</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Safari</string>
-		<key>version</key>
-		<string>6.1</string>
 		<key>platform</key>
 		<string>Mac</string>
+		<key>show-platform</key>
+		<false/>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71</string>
+		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/7.1.3 Safari/537.85.12</string>
+		<key>version</key>
+		<string>7.1.3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Safari</string>
+		<key>platform</key>
+		<string>Mac</string>
+		<key>show-platform</key>
+		<false/>
+		<key>user-agent</key>
+		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/6.2.3 Safari/537.85.12</string>
+		<key>version</key>
+		<string>6.2.3</string>
 	</dict>
 	<dict>
 		<key>separator</key>
@@ -29,56 +45,32 @@
 	<dict>
 		<key>name</key>
 		<string>Safari iOS</string>
-		<key>version</key>
-		<string>6.1</string>
 		<key>platform</key>
 		<string>iPhone</string>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25</string>
+		<string>Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</string>
+		<key>version</key>
+		<string>8.1</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Safari iOS</string>
-		<key>version</key>
-		<string>6.1</string>
 		<key>platform</key>
 		<string>iPod touch</string>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (iPod; CPU iPhone OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25</string>
+		<string>Mozilla/5.0 (iPod; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</string>
+		<key>version</key>
+		<string>8.1</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Safari iOS</string>
-		<key>version</key>
-		<string>6.1</string>
 		<key>platform</key>
 		<string>iPad</string>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (iPad; CPU OS 6_1_3 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10B329 Safari/8536.25</string>
-	</dict>
-	<dict>
-		<key>separator</key>
-		<true/>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Android</string>
+		<string>Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B410 Safari/600.1.4</string>
 		<key>version</key>
-		<string>4.0.4</string>
-		<key>platform</key>
-		<string>Samsung Galaxy S3</string>
-		<key>user-agent</key>
-		<string>Mozilla/5.0 (Linux; U; Android 4.0.4; en-gb; GT-I9300 Build/IMM76D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Android</string>
-		<key>version</key>
-		<string>2.2</string>
-		<key>platform</key>
-		<string>Samsung Galaxy Tab</string>
-		<key>user-agent</key>
-		<string>Mozilla/5.0 (Linux; U; Android 2.2; en-us; SCH-I800 Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</string>
+		<string>8.1</string>
 	</dict>
 	<dict>
 		<key>separator</key>
@@ -87,50 +79,50 @@
 	<dict>
 		<key>name</key>
 		<string>Internet Explorer</string>
-		<key>version</key>
-		<string>10.0</string>
 		<key>platform</key>
 		<string>Windows</string>
 		<key>show-platform</key>
 		<false/>
 		<key>user-agent</key>
 		<string>Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)</string>
+		<key>version</key>
+		<string>10.0</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Internet Explorer</string>
-		<key>version</key>
-		<string>9.0</string>
 		<key>platform</key>
 		<string>Windows</string>
 		<key>show-platform</key>
 		<false/>
 		<key>user-agent</key>
 		<string>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)</string>
+		<key>version</key>
+		<string>9.0</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Internet Explorer</string>
-		<key>version</key>
-		<string>8.0</string>
 		<key>platform</key>
 		<string>Windows</string>
 		<key>show-platform</key>
 		<false/>
 		<key>user-agent</key>
 		<string>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)</string>
+		<key>version</key>
+		<string>8.0</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Internet Explorer</string>
-		<key>version</key>
-		<string>7.0</string>
 		<key>platform</key>
 		<string>Windows</string>
 		<key>show-platform</key>
 		<false/>
 		<key>user-agent</key>
 		<string>Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)</string>
+		<key>version</key>
+		<string>7.0</string>
 	</dict>
 	<dict>
 		<key>separator</key>
@@ -139,22 +131,26 @@
 	<dict>
 		<key>name</key>
 		<string>Google Chrome</string>
-		<key>version</key>
-		<string>26.0</string>
 		<key>platform</key>
 		<string>Mac</string>
+		<key>show-version</key>
+		<false/>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31</string>
+		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36</string>
+		<key>version</key>
+		<string>29</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Google Chrome</string>
-		<key>version</key>
-		<string>26.0</string>
 		<key>platform</key>
 		<string>Windows</string>
+		<key>show-version</key>
+		<false/>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.64 Safari/537.31</string>
+		<string>Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.57 Safari/537.36</string>
+		<key>version</key>
+		<string>29</string>
 	</dict>
 	<dict>
 		<key>separator</key>
@@ -163,28 +159,32 @@
 	<dict>
 		<key>name</key>
 		<string>Firefox</string>
-		<key>version</key>
-		<string>11.0</string>
 		<key>platform</key>
 		<string>Mac</string>
+		<key>show-version</key>
+		<false/>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:20.0) Gecko/20100101 Firefox/20.0</string>
+		<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:23.0) Gecko/20100101 Firefox/23.0</string>
+		<key>version</key>
+		<string>23.0.1</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Firefox</string>
-		<key>version</key>
-		<string>11.0</string>
 		<key>platform</key>
 		<string>Windows</string>
+		<key>show-version</key>
+		<false/>
 		<key>user-agent</key>
-		<string>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:20.0) Gecko/20100101 Firefox/20.0</string>
+		<string>Mozilla/5.0 (Windows NT 6.2; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0</string>
+		<key>version</key>
+		<string>23.0.1</string>
 	</dict>
 	<dict>
 		<key>separator</key>
 		<true/>
 	</dict>
-	<dict>
+		<dict>
 		<key>name</key>
 		<string>Googlebot</string>
 		<key>version</key>
